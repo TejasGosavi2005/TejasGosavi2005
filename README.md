@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TejasGosavi2005
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
 
 <!---
 TejasGosavi2005/TejasGosavi2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
