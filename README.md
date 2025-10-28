@@ -1,7 +1,6 @@
-<!- 👋 Hi, I’m @TejasGosavi2005
-- 👀 I’m interested in web development--->
+ 👋 Hi, I’m @TejasGosavi2005
 
-<!---
-TejasGosavi2005/TejasGosavi2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 💻 Android & Web Developer | TYBCS Student
+📿 Creator of devotion app — blending technology with devotion
+🌱 Passionate about building meaningful digital experiences
+🚀 Exploring Kotlin | XML | HTML | CSS | JS | Firebase | 
